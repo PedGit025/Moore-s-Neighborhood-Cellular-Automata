@@ -184,7 +184,11 @@ root = tk.Tk()
 app = Kaleido(root)
 root.mainloop()
 ```
-This will launch a window where you can control the CA's evolution
+This will launch a window where you can control the CA's evolution.
+
+If you "Run All Cells" in Jupyter Notebook, the Tkinter window might get covered by other tabs or windows
+
+![Kaleidoscope CA sample](images/sample.png)
 
 ENJOY :D
 
