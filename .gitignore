@@ -1,0 +1,31 @@
+# Ignore NetLogo generated files and temporary files
+
+*.csv
+*.csv~
+*.tmp
+*.log
+*.swp
+*.bak
+
+# Ignore compiled NetLogo files
+*.nlogo.old
+*.nlogo~
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor config files
+.vscode/
+.idea/
+*.iml
+
+# Ignore python stuff
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+*.out
+*.log
+.env/
+.venv/
+
