@@ -2,7 +2,7 @@
 
 ## Overview
 
-**KaleidoCA** is a 2D CA that generates kaleidoscopic patterns through mirrored grids, evolving over time based on specific rules. The automaton operates on a quarter of the grid and mirrors it across axes to create symmetrical, stunning designs. It includes an interactive GUI built with **Tkinter** and **Matplotlib** for real-time visualization and control.
+**KaleidoCA** is a 2D CA that generates kaleidoscopic patterns through mirrored grids, utilizes Moore's Neighbor for rules and take the cell's angle to generate hue based form hsv.
 
 ---
 
